@@ -7,5 +7,6 @@ fn main() {
         res += x;
     }
 
+    // S
     println!("{res}");
 }
